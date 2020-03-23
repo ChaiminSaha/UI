@@ -20,6 +20,7 @@
 # ส่วนที่ 3 Wireframe 
  ## 1.จะมีการออกแบบโดยคอมพิวเตอร์ ในส่วนข้อมูลต่างๆ ที่จะแสดงในตัวแอป ซึ่งตามรูปภาพด้านบน ที่ชื่อ Capture จนถึง Capture7 
  ## 2.แต่ละส่วนของหน้าจอ เป็นตามในการทำงานของระบบ 2.1-2.7 
+ ## 3.ลิงค์ figma ที่ใช้เพื่อออกแบบ https://www.figma.com/file/ZHUoKLPThDVl0WABXtOheU/UI-Project?node-id=0%3A1
  ## 3.ส่วนลิงค์ แนะนำการใช้ https://youtu.be/q1-hj_G73nY
 # ส่วนที่ 4 แบบประเมิน
 URL=https://drive.google.com/open?id=1HKe-o6knrYY1dWRj4YgSfq7iGut8_yau0rBws5Dq9a4&fbclid=IwAR1Ax9d5XYBupiOZu_iZ-AUcjJUl_ICxGRi05HDRXdKK-MKcIBv8hVirlDA
